@@ -2,6 +2,6 @@
 @Library('stdpipeline')
 import com.foo.*
 
-//Execute the pipeline
+//Execute the pipeline pi
 stdpipeline.execute()
 
