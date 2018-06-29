@@ -1,6 +1,6 @@
 #!/bin/groovy
 
-package stdpipeline;
+package com.company.project;
 
 def execute() {
 
