@@ -1,12 +1,12 @@
 #!/bin/groovy
 
-@Library('stdpipeline')
+@Library('jenkins-global-lib')
 
-import stdpipeline.*
-def util = stdpipeline.util()
+import com.company.project.*
+def util = com.company.project.util()
 
 
 
 //Execute the pipeline 
 
-stdpipeline.execute()
+jenkins-global-lib.execute()
