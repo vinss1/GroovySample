@@ -3,7 +3,7 @@
 @Library('stdpipeline')
 
 import stdpipeline.*
-def util = new stdpipeline.util()
+def util = stdpipeline.util()
 
 
 
