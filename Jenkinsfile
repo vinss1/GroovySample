@@ -2,7 +2,8 @@
 
 @Library('stdpipeline')
 
-import com.foo.*
+import stdpipeline.*
+def util = new stdpipeline.util()
 
 
 
