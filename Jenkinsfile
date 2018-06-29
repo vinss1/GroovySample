@@ -3,7 +3,7 @@
 @Library('jenkins-global-lib')
 
 import com.company.project.*
-def util = com.company.project.util()
+def util = new com.company.project.util()
 
 
 
